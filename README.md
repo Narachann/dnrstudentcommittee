@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>DNR - Office 64</title>
+<title>DNR - dnrstudentcommittee 64 </title>
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <script type="text/javascript" src="https://www.google.com/jsapi"></script>
