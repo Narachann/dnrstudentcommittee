@@ -657,13 +657,13 @@ a.oct_choose:hover{
 <div id="container">
 
 <div id="menu">
-	<a href="http://dnr.ac.th/office64/home">หน้าแรก</a>
+	<a href="http://dnr.ac.th/studentcommittee/home">หน้าแรก</a>
 
 
 <div id="wrapper"><h1>เข้าสู่ระบบ ปีการศึกษา 2564</h1><form action="http://dnr.ac.th/office64/login/check" method="post"><h3>ชื่อผู้ใช้</h3><input type="text" name="user" value=""  /><h3>รหัสผ่าน</h3><input type="password" name="pass" value=""  /><br /><br /><input type="submit" name="submit" value="เข้าสู่ระบบ"  /></form></div>
 
 <div id="footer">
-	ติดต่อด่วน ป้านี 0814640772, อ.กล้า 0869630464
+	ติดต่อเเก้ไขระบบ บิ๊ก 0946894184
 	<!--หน้านี้ใช้เวลา 0.0117 วินาที-->
 </div>
 
